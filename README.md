@@ -67,7 +67,7 @@ A simple Whatsapp User bot help you in many thing
       ```
       SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
       PREFIX = .
-      STICKER_PACKNAME = LyFE
+      STICKER_PACKNAME = نيوتن
       ALWAYS_ONLINE = false
       RMBG_KEY = null
       LANGUAG = en
@@ -76,8 +76,8 @@ A simple Whatsapp User bot help you in many thing
       BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
       MAX_UPLOAD = 200
       REJECT_CALL = false
-      SUDO = 989876543210
-      TZ = Asia/Kolkata
+      SUDO = your num.
+      TZ = africa/sudan
       VPS = true
       AUTO_STATUS_VIEW = true
       SEND_READ = false
